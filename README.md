@@ -24,9 +24,6 @@ This is a modern, responsive **personal portfolio website** designed to showcase
 
 ---
 
-
----
-
 ## 🎯 Sections Included
 
 - **Home**: Intro with your name, title, and a call to action.
@@ -36,10 +33,6 @@ This is a modern, responsive **personal portfolio website** designed to showcase
 - **Footer**: Quick navigation and copyright info.
 
 ---
-
-
----
-
 
 ## 🤝 Contribution
 
@@ -52,17 +45,8 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 For any feedback, queries, or collaborations, feel free to contact:
 
 - **Name:** Akshat Choubey
-- **Email:** your-email@example.com
-- **LinkedIn:** [Akshat Choubey](https://linkedin.com/in/yourprofile)
+- **Email:** akshatchoubey2@gmail.com
+- **LinkedIn:** [Akshat Choubey](www.linkedin.com/in/akshat-choubey)
 
----
-
-## ⭐ Acknowledgements
-
-Special thanks to:
-- OpenAI ChatGPT for collaborative coding assistance.
-- Inspiration from modern developer portfolios.
-
----
 
 
