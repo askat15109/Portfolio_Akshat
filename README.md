@@ -37,38 +37,9 @@ This is a modern, responsive **personal portfolio website** designed to showcase
 
 ---
 
-## 📦 Deployment on Netlify
-
-### Step 1 - Preparation
-- Make sure your project folder has `index.html` as the main file.
-- Ensure all images, CSS, and JS files are correctly linked and working locally.
-
-### Step 2 - Zip Your Project
-- Compress the entire **Portfolio** folder into a `.zip` file.
-
-### Step 3 - Upload to Netlify
-- Go to [Netlify](https://www.netlify.com/).
-- Create an account or log in.
-- Click **"Add New Site" → "Deploy manually"**.
-- **Drag and drop** your zipped folder into Netlify.
-- Your site will be live in seconds!
-- Copy your **Netlify URL** to share your portfolio with others.
 
 ---
 
-## 📝 Example Netlify README
-
-
----
-
-## 🚀 Future Enhancements
-
-- 🌙 Dark/Light Mode Toggle.
-- 📊 Add a **Blog Section** for personal updates.
-- 🔔 Add **notifications for new project updates**.
-- 🛡️ Add **reCAPTCHA** for the contact form to prevent spam.
-
----
 
 ## 🤝 Contribution
 
